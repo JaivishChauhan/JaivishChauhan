@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaivish Chauhan</h1>
 <h3 align="center">A passionate Computer Enthusiast And Troubleshooter.</h3>
 
-- 🌱 I’m currently learning **Designing Video Editing, Troubleshooting & Web development.**
+- 🌱 I’m currently learning **Designing, Video Editing, Troubleshooting & Web development.**
 
 - 📫 Reach me at **Chauhanjaivish@gmail.com**
 
